@@ -365,7 +365,7 @@ This section is also in the section of "My work to the project" in README.md
 #### R code: run_analysis.R
 
 	## run_analysis.R
-	## author: sjchan-ds (gitHub username)
+	## author: amazing010692 (gitHub username)
 	## 
 	## The purpose of this project is to demonstrate course students' ability to collect,
 	## work with, and clean a data set. The goal is to prepare tidy data that can be used
