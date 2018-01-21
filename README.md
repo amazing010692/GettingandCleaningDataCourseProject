@@ -62,8 +62,8 @@
 
 ### Obtain the raw data sets and put them in the working directory (via Rstudio)
 
- * The following steps were performed in a PC running the operation system Window 8.1.
-   The data cleaning processes were performed in Rstudio with R version 3.1.0
+ * The following steps were performed in a PC running the operation system Window 10.1.
+   The data cleaning processes were performed in Rstudio with R version 3.4.2
      
    + download the raw data from the following website:
       https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
