@@ -288,11 +288,11 @@ This section is also in the section of "My work to the project" in README.md
       
      + put the raw data sets in the selected working directory called "datacleaningproject"
        that is same name as in a repo in my Github account. 
-       (In other words, my working directory: "C:/Users/SJ/datacleaningproject")
+       (In other words, my working directory: "C:/Users/hello/Documents/Coursera_RConsole/GettingandCleaningDataCourseProject")
         
      		  >getwd()
         
-     		  [1] "C:/Users/SJ/datacleaningproject"
+     		  [1] "C:/Users/hello/Documents/Coursera_RConsole/GettingandCleaningDataCourseProject"
         
 #### Create a tidy data via a R script called run_analysis.R
       
